@@ -1,2 +1,2 @@
 # covid19-data
-aggregated country level timeseries data for the covid19 outbreak
+reconciliations and reports comparing covid19 outbreak data sources.
