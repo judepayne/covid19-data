@@ -13,7 +13,7 @@ Please note that in these reports:
 
 The full report is put into the reports/ folder as json.
 
-A summary report which filters out countries that don't differ significantly as additionally posted as an issue at the same time.
+A summary report which filters out countries that don't differ significantly as additionally posted as an [issue](https://github.com/judepayne/covid19-data/issues) at the same time.
 
 #### TODO
 
