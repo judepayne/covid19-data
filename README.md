@@ -1,5 +1,5 @@
 
-#### Automated reconciliations comparing different covid19 outbreak data sources.
+### Automated econciliations of the different covid19 outbreak data sources.
 
 These reconciliations are done at *country level only* at the moment.
 
