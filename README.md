@@ -1,6 +1,5 @@
-# covid19-data
 
-### Reconciliations and reports comparing covid19 outbreak data sources.
+#### Automated reconciliations comparing different covid19 outbreak data sources.
 
 These reconciliations are done at *country level only* at the moment.
 
