@@ -5,10 +5,11 @@ These reconciliations are done at *country level only* at the moment.
 
 Please note that in these reports:
 
-    jhu    = Johns Hopkins github repository
-    scrape = the main Wikipedia coronavirus web page
+`jhu`    = Johns Hopkins github [repository](https://github.com/CSSEGISandData/COVID-19)
+
+`scrape` = the main Wikipedia coronavirus [webpage](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
     
-These reconciliation is run every two hours.
+> This reconciliation is run every two hours.
 
 The full report is put into the reports/ folder as json.
 
