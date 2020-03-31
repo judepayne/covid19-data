@@ -14,7 +14,7 @@ Please note that in these reports:
 `'worldometer'` = the worldometer coronavirus [webpage](https://www.worldometers.info/coronavirus/)
 <br/><br/>
 > This reconciliation is run every two hours.
-
+<br/><br/>
 The full report is put into the reports/ folder as json.
 
-A summary report which filters out countries that don't differ significantly as additionally posted as an [issue](https://github.com/judepayne/covid19-data/issues) at the same time.
+A summary report which filters out countries that don't differ significantly is additionally posted as an [issue](https://github.com/judepayne/covid19-data/issues) at the same time.
