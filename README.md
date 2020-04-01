@@ -12,8 +12,9 @@ Please note that in these reports:
 `'wikipedia'` = the main Wikipedia coronavirus [webpage](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
 
 `'worldometer'` = the worldometer coronavirus [webpage](https://www.worldometers.info/coronavirus/)
-<br/>
+<br/><br/>
 > This reconciliation is run every four hours.
+
 > An additional daily reconciliation is run at 00:20 UTC (Just after the jhu daily run completes).
 <br/>
 
