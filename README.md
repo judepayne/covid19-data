@@ -1,9 +1,9 @@
 
 ### Automated reconciliations of the different covid19 outbreak data sources.
 
-Many people use Johns Hopkins data as a source for analytics. These reconciliations compare that dataset against wikipedia (community maintained) and worldometer (private).
+The Johns Hopkins covid19 outbreak data is broadly used for analytics.
 
-These reconciliations are done at *country level only* at the moment.
+The reconciliations here compare that dataset against wikipedia (community maintained) and worldometer (private) at *country level only* at the moment.
 
 Please note that in these reports:
 
@@ -12,9 +12,12 @@ Please note that in these reports:
 `'wikipedia'` = the main Wikipedia coronavirus [webpage](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
 
 `'worldometer'` = the worldometer coronavirus [webpage](https://www.worldometers.info/coronavirus/)
-<br/><br/>
-> This reconciliation is run every two hours.
-<br/><br/>
-The full report is put into the reports/ folder as json.
+<br/>
+> This reconciliation is run every four hours.
+> An additional daily reconciliation is run at 00:20 UTC (Just after the jhu daily run completes).
+<br/>
 
-A summary report which filters out countries that don't differ significantly is additionally posted as an [issue](https://github.com/judepayne/covid19-data/issues) at the same time.
+The full reconciliation report is put into the reports/ folder as json.
+
+Human readable summaries of the 4-hourly run and daily run are posted as [issues](https://github.com/judepayne/covid19-data/issues) as the full reports are generated.
+
