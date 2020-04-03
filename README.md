@@ -1,6 +1,8 @@
 
 ### Automated reconciliations of the different covid19 outbreak data sources.
 
+**Please Note:** This data is provided as is and pull requests will *not* be accepted.
+
 The Johns Hopkins covid19 outbreak data is broadly used for analytics.
 
 The reconciliations here compare that dataset against wikipedia (community maintained) and worldometer (private) at *country level only* at the moment.
@@ -24,4 +26,3 @@ Human readable summaries of the 4-hourly run and daily run are posted as [issues
 
 The daily run at 00:20 UTC also snapshots the day's data into a timeseries csv file which is in the timeseries folder/. The first day's data collected like this was data for the 2nd April 2020.
 
-**Please Note:** This data is provided as is and pull requests will not be accepted.
