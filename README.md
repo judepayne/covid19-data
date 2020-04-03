@@ -22,4 +22,6 @@ The full reconciliation report is put into the reports/ folder as json.
 
 Human readable summaries of the 4-hourly run and daily run are posted as [issues](https://github.com/judepayne/covid19-data/issues) as the full reports are generated.
 
+The daily run at 00:20 UTC also snapshots the day's data into a timeseries csv file which is in the timeseries folder/. The first day's data collected like this was data for the 2nd April 2020.
+
 **Please Note:** This data is provided as is and pull requests will not be accepted.
